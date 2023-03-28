@@ -1,7 +1,5 @@
 ## HTML Email Project
 
-Template
-
 ### Built With
 
 - ![HTML]
