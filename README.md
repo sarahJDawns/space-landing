@@ -1,4 +1,10 @@
-## HTML Email Project
+## HTML Email
+
+---
+
+![img](images/spacedEmail.png)
+
+---
 
 ### Built With
 
