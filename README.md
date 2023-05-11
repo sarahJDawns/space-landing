@@ -1,4 +1,4 @@
-## HTML Email
+## Responsive Landing Page
 
 ---
 
@@ -9,7 +9,7 @@
 ### Built With
 
 - ![HTML]
-- ![CSS]
+- ![tailwindcss]
 
-[css]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[tailwindcss]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
