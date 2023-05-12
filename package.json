@@ -8,5 +8,8 @@
     "watch": "tailwindcss -i ./css/input.css -o ./css/main.css --watch"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }
